@@ -36,7 +36,8 @@
 </p>
 
 ##
-
+<details>
+  <summary>🐾 Click to see my cat!</summary>
 <h3 align="center">✨Finally, Here's a Look at My Cat!</h3>
 
 <p align="center">
@@ -74,7 +75,7 @@
 <p align="center">
   <i>Thanks for stopping by! 🐾 <b>Meow!</b></i>
 </p>
-
+</details>
 
 
 <!--
