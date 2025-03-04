@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently pursuing a Master's degree in **New York University**.
-- 🌱 I’m currently learning **Web Development**!
+- 🌱 I’m currently learning **Web Development and Information Visualization**!
 - 📫 Feel free to reach me out **sunjx2002@gmail.com**
 
 <!--- stats & Trophy -->
@@ -25,7 +25,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,bash,md,latex,sklearn,tensorflow,pytorch,opencv,mysql,sqlite,nodejs,npm,qt,react,flask,spring,maven,git,docker,aws,anaconda,linux,ubuntu,eclipse,idea,visualstudio,vscode,discord,stackoverflow&perline=12" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,html,css,js,ts,bash,md,latex,sklearn,tensorflow,pytorch,opencv,mysql,sqlite,nodejs,d3,npm,qt,react,vue,flask,spring,maven,git,docker,aws,anaconda,linux,ubuntu,eclipse,idea,visualstudio,vscode,discord,stackoverflow&perline=12" />
   </a>
 </p>
 
@@ -37,11 +37,11 @@
 
 ##
 <details>
-  <summary>🐾 Click to see my cat!</summary>
+  <summary>🐾 Take a look at my cat!</summary>
 <h3 align="center">✨Finally, Here's a Look at My Cat!</h3>
 
 <p align="center">
-  <i>This is My Feline Knight — The Guardian of Code, the Protector of PC  — H.E. Sir Dolphin.</i>
+  <i>This is My Feline Knight — The Guardian of Code, the Protector of PC  — H.E. Dolphin</i>
 </p>
 <p align="center">
 <img src="./臭宝.jpg" alt="My Cat" width="400">
@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-  Here's a little warmth from our feline companion as you go.  
+  A little warmth from my feline companion as you go.  
 </p>
 
 <p align="center">
