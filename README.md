@@ -38,21 +38,19 @@
 ##
 <details>
   <summary>🐾 Take a look at my cat!</summary>
-<h3 align="center">✨Finally, Here's a Look at My Cat!</h3>
 
-<p align="center">
-  <i>This is My Feline Knight — The Guardian of Code, the Protector of PC  — H.E. Dolphin</i>
-</p>
 <p align="center">
 <img src="./臭宝.jpg" alt="My Cat" width="400">
 </p>
+<h3 align="center">✨Here's a Look at My Cat!</h3>
+
 
 <div align="center">
   <table>
     <tr>
       <th>Name</th>
       <th>Role</th>
-      <th>Special Skill</th>
+      <th>Skill</th>
     </tr>
     <tr>
       <td>🐱 <strong>Dolphin</strong></td>
@@ -64,16 +62,10 @@
     <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" alt="Working Cat" width="250">
 </div>
 
-<p align="center">
 
-</p>
 
 <p align="center">
-  A little warmth from my feline companion as you go.  
-</p>
-
-<p align="center">
-  <i>Thanks for stopping by! 🐾 <b>Meow!</b></i>
+  <i>Thanks for stopping by! 🐾</i>
 </p>
 </details>
 
